@@ -1,0 +1,3 @@
+exports.configuration = [
+  { host: "minecraft.example.com", port: 25565 },
+]
